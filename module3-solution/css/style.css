@@ -1,0 +1,28 @@
+body {
+font-family: Arial;
+}
+
+.navbar-brand h1 {
+margin: 0;
+font-size: 28px;
+color: black;
+}
+
+.navbar-brand a:hover {
+text-decoration: none;
+}
+
+#mobile-menu {
+background: #ddd;
+}
+
+#mobile-menu li {
+border: 1px solid black;
+}
+
+.menu-section {
+background: #999;
+height: 1000px;
+padding: 20px;
+margin-top: 20px;
+}
